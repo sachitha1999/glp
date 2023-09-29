@@ -1,1 +1,1 @@
-# glp
+# Gamified Learning Platform
